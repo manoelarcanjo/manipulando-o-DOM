@@ -4,12 +4,8 @@ var z = window.document.getElementById('div1');
 
 x.style.color = 'green';
 y.style.backgroundColor = 'violet';
-
-window.alert(y.innerText);
-
-window.document.write('Escrevendo no HTML pelo JS');
-
 x.innerHTML += ' com a escola DNC';
 x.style.textAlign = 'center';
+
 
 
