@@ -1,0 +1,24 @@
+* {
+    margin: 2rem;
+    color: #f0f8ff;
+    background-color: #303030;
+}
+
+body {
+    margin-top: 2rem;
+}
+
+h1 {
+    font-size: 2.6rem;
+}
+
+#div1 {
+    text-align: center;
+}
+
+#div1 p {
+    color: #00ffff;
+    background-color: #000000;
+    border-radius: 1rem;
+    padding: 0.8rem;
+}
